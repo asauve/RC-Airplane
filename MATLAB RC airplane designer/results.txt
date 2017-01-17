@@ -1,0 +1,23 @@
+10-Dec-2016 
+span: 1.298712 [m] 
+root chord: 0.251246 [m] 
+tip chord: 0.099729 [m] 
+taper ratio: 0.396939 
+dihedral: 5.000000 degrees 
+sweep angle: 25.016733 degrees 
+airplane mass: 200.000000 grams 
+airplane weight: 2.498107 [N] 
+planform area: 0.227908 [m^2] 
+center of gravity should be 7.061501 inches back from the nose 
+
+SIMULATION RESULTS
+speed [km/hr]   drag [N]    lift_drag [N]   drag_profile [N]   Cl_required   alpha_required [deg] 
+    15.0         0.277          0.10              0.18              1.032        14.134 
+    17.5         0.165          0.07              0.09              0.758         9.647 
+    20.0         0.163          0.06              0.11              0.580         6.776 
+    22.5         0.181          0.04              0.14              0.459         4.819 
+    25.0         0.203          0.04              0.17              0.371         3.423 
+    27.5         0.233          0.03              0.20              0.307         2.391 
+    30.0         0.268          0.03              0.24              0.258         1.606 
+    32.5         0.307          0.02              0.28              0.220         0.995 
+    35.0         0.350          0.02              0.33              0.190         0.511 
