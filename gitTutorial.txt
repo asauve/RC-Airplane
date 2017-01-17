@@ -2,7 +2,7 @@ command line commands
 must be in git repository for git commands to work
 
 ls for mac, dir for windows (lists everything inside your directory)
-cd (cd ... is like backspace)
+cd (cd .. is like backspace)
 
 git status (highlight differences between cloud and local workspace)
 untracked file (exists in one place but not the other)
