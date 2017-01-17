@@ -1,0 +1,19 @@
+﻿  Control Tower.cpp
+d:\desktop\control tower\control tower\MyForm.h(445): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\desktop\control tower\control tower\MyForm.h(446): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\desktop\control tower\control tower\MyForm.h(449): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\desktop\control tower\control tower\MyForm.h(451): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Control Tower.cpp(117): warning C4005: 'XINPUT_GAMEPAD_LEFT_THUMB_DEADZONE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\Xinput.h(100): note: see previous definition of 'XINPUT_GAMEPAD_LEFT_THUMB_DEADZONE'
+Control Tower.cpp(118): warning C4005: 'XINPUT_GAMEPAD_RIGHT_THUMB_DEADZONE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\Xinput.h(101): note: see previous definition of 'XINPUT_GAMEPAD_RIGHT_THUMB_DEADZONE'
+Control Tower.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Control Tower.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Control Tower.cpp(426): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+Control Tower.cpp(427): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+Control Tower.cpp(428): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+  Control Tower.vcxproj -> D:\Desktop\Control Tower\Debug\Control Tower.exe
+  Control Tower.vcxproj -> D:\Desktop\Control Tower\Debug\Control Tower.pdb (Full PDB)
